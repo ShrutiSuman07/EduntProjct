@@ -39,7 +39,7 @@ To get a local copy up and running, follow these simple steps.
 To use the Weather App, simply enter the name of the city in the search bar and press enter. The app will display the current weather conditions, including temperature, humidity, wind speed, and more.
 
 ## Contact
-For any inquiries, reach out at [shrutisuman07122005@gmailcom].<br>
-GitHub: (https://github.com/shrutisuman07122005).<br>
+For any inquiries, reach out at shrutisuman07122005@gmailcom<br>
+GitHub: https://github.com/ShrutiSuman07<br>
 Linkedin: www.linkedin.com/in/shruti55314a1435<br>
 
